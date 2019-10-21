@@ -1,0 +1,72 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.header {
+background: #a1a1b5;
+}
+
+.header span {
+  float: right;
+  margin: 47px 773px 0 0;
+}
+
+.nfont {
+  font-size: large;
+}
+
+.textpara p {
+  padding: 24px 0 28px 0;
+}
+
+.textpara div {
+  border-bottom: 1px solid #cec2c2;
+    margin: 0px 4px 0 233px;
+    padding: 0px 0 6px 0px;
+}
+
+.textpara ul {
+  padding: 0 0 0 255px;
+}
+
+.content ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 5px 38px 0 0;
+    margin: 15px -2px 14px 76px;
+    border-right: 2px dotted;
+}
+
+.content ul {
+  margin: 5px 4px 28px 4px;
+  background: #d4ceda;
+  border-bottom: 1px solid #a79f9f;
+}
+
+.details {
+  float: left;
+  margin: 0 59px 0px 0;
+}
+
+.mainmenu ul {
+  border: 1px solid #675656;
+  width: 142px;
+  margin: 4px 0 19px 8px;
+  padding: 6px 2px 7px 24px;
+}
+
+.mainmenu span {
+  margin: 0 0 0 31px;
+}
+
+.block span {
+  margin: 0 0 0 31px;
+}
+
+.block ul {
+  border: 1px solid #675656;
+  width: 142px;
+  margin: 4px 0 0 8px;
+  padding: 6px 2px 7px 24px;
+}
